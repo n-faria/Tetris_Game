@@ -3,4 +3,4 @@
 
 - Pygame library for python 3.3 must be installed https://bitbucket.org/pygame/pygame/downloads/
 
-- Run tetris.py with all of the image and sound files in the same folder
+- Run tetris.py with all of the image, sound and font files in the same folder
